@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+
+# 环境与密钥
+.env
+.env.*
+!.env.example
+
+# 工具缓存
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
